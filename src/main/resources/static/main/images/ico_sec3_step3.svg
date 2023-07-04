@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.27" height="37.48" viewBox="0 0 26.27 37.48">
+  <g id="ico_sec3_step3" transform="translate(-156 -683.67)">
+    <g id="그룹_33084" data-name="그룹 33084" transform="translate(157 689.967)">
+      <path id="패스_4335" data-name="패스 4335" d="M176.456,692.27h4.236a.571.571,0,0,1,.578.561v29.061a.571.571,0,0,1-.578.561H157.578a.571.571,0,0,1-.578-.561V692.831a.571.571,0,0,1,.578-.561h4.143" transform="translate(-157 -692.27)" fill="none" stroke="#d4dee2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path id="패스_4336" data-name="패스 4336" d="M174.211,687.806c-.242,0-.448-.23-.5-.551-.242-1.478-1.21-2.586-2.38-2.586s-2.138,1.108-2.38,2.586c-.052.321-.258.551-.5.551h-1.566a2.288,2.288,0,0,0-2,2.112l-.639,3.464h14.164l-.639-3.464a2.3,2.3,0,0,0-2-2.112Z" transform="translate(-2.197 0)" fill="none" stroke="#2bbfff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="패스_4337" data-name="패스 4337" d="M164,710.676h2.612l1.74-3.485,3.313,7.2,3.48-9.06,1.745,5.346h2.09" transform="translate(-2.121 -9.382)" fill="none" stroke="#ff9e45" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="선_173" data-name="선 173" x2="14.025" transform="translate(162.123 708.46)" fill="none" stroke="#2bbfff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="선_174" data-name="선 174" x2="9.046" transform="translate(164.612 712.425)" fill="none" stroke="#2bbfff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

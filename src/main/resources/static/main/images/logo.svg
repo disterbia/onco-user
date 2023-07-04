@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55.206" height="34.813" viewBox="0 0 55.206 34.813">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.259" y1="0.259" x2="0.556" y2="0.556" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9e45"/>
+      <stop offset="0.998" stop-color="#ffb74a"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_33025" data-name="그룹 33025" transform="translate(-117.419 -182.367)">
+    <path id="패스_11" data-name="패스 11" d="M204.509,184.479a7.211,7.211,0,0,0-10.2,0,7.209,7.209,0,0,1-10.2,0,7.21,7.21,0,0,0-10.2,10.2h0a7.21,7.21,0,0,1,0,10.2,7.21,7.21,0,1,0,10.2,0,7.21,7.21,0,0,1,0-10.2h0a7.209,7.209,0,0,1,10.2,0,7.21,7.21,0,1,0,10.2-10.2Z" transform="translate(-33.996)" fill="url(#linear-gradient)"/>
+    <path id="패스_12" data-name="패스 12" d="M119.53,204.872a7.21,7.21,0,1,0,10.2,0,7.21,7.21,0,0,1,0-10.2,7.21,7.21,0,1,0-10.2,0A7.21,7.21,0,0,1,119.53,204.872Z" fill="#2bbfff"/>
+    <circle id="타원_1" data-name="타원 1" cx="7.21" cy="7.21" r="7.21" transform="translate(158.205 202.76)" fill="#2bbfff"/>
+  </g>
+</svg>

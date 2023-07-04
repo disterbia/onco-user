@@ -1,0 +1,11 @@
+<svg id="ico_step3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158.415" height="218.208" viewBox="0 0 158.415 218.208">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.856" y1="0.144" x2="0.18" y2="0.82" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7a00"/>
+      <stop offset="1" stop-color="#ff9a00"/>
+    </linearGradient>
+  </defs>
+  <path id="패스_4084" data-name="패스 4084" d="M35.2,35.2,112.016,0l-35.2,76.813L0,112.016Z" transform="translate(79.207 59.793) rotate(45)" fill="url(#linear-gradient)"/>
+  <path id="패스_4082" data-name="패스 4082" d="M35.2,35.2,112.016,0l-35.2,76.813L0,112.016Z" transform="translate(79.207 30) rotate(45)" fill="#8995a1"/>
+  <path id="패스_4083" data-name="패스 4083" d="M35.2,35.2,112.016,0l-35.2,76.813L0,112.016Z" transform="translate(79.207) rotate(45)" fill="#b1bbc9"/>
+</svg>

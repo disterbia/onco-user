@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130.075" height="131.465" viewBox="0 0 130.075 131.465">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7a00"/>
+      <stop offset="1" stop-color="#ff9a00"/>
+    </linearGradient>
+  </defs>
+  <g id="ico_step1" transform="translate(0.5)">
+    <g id="test_plus" transform="translate(54.499 32)">
+      <g id="그룹_10463" data-name="그룹 10463" transform="translate(3 -22)">
+        <path id="합치기_2" data-name="합치기 2" d="M-477.962-1386.314v-21.038H-499a10,10,0,0,1-10-10,10,10,0,0,1,10-10h21.038v-21.038a10,10,0,0,1,10-10,10,10,0,0,1,10,10v21.038h21.038a10,10,0,0,1,10,10,10,10,0,0,1-10,10h-21.038v21.038a10,10,0,0,1-10,10A10,10,0,0,1-477.962-1386.314Z" transform="translate(499 1448.389)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="그룹_10502" data-name="그룹 10502">
+      <path id="합치기_3" data-name="합치기 3" d="M-451.5-1300.646v-6.79a53.919,53.919,0,0,1,53.411-46.552,53.915,53.915,0,0,1,53.588,48v5.345Zm21.366-92.308A32.045,32.045,0,0,1-398.088-1425a32.046,32.046,0,0,1,32.045,32.045,32.046,32.046,0,0,1-32.045,32.045A32.045,32.045,0,0,1-430.133-1392.954Z" transform="translate(451.499 1431.611)" fill="#b1bbc9" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="패스_4085" data-name="패스 4085" d="M745.389,174.135a13.612,13.612,0,0,1-7.288-2.1,13.232,13.232,0,0,1-4.881-5.469,2.5,2.5,0,0,1,4.51-2.158,8.572,8.572,0,0,0,15.253.132,2.5,2.5,0,0,1,4.469,2.243,13.263,13.263,0,0,1-4.877,5.315A13.621,13.621,0,0,1,745.389,174.135Z" transform="translate(-691.847 -116.471)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

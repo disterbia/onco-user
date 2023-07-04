@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/* 헤더 */
+html[dark] .logo{fill: currentColor;}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.breadcrumbs .pt_40{
+    padding-top: 1rem !important ;
+}
+.sub_top .mt_50{
+    margin-top: 3rem !important ;
+}
+/* 푸터 */
+.ft {background: #FAFAFB;padding: 0 0 3rem  0; color: #666;}
+.ft .align-items-md-center{
+    align-items: center ;
+}
+
+.ft .a_link{ padding: 1.6rem 0; border-top: 1px solid rgba(214, 214, 214, 60%); border-bottom: 1px solid rgba(214, 214, 214, 60%);}
+.ft .a_link a{color: #222; display:inline-block; padding-right: 3rem;  line-height:100%; margin: 0.3rem 0;}
+.ft .a_link a:last-child{border-right:0;}
+.ft .a_link{margin-left:-1.0rem;display: flex;flex-wrap: wrap;}
+.ft .sns_link{
+    margin-top: 3rem;
+}
+.ft .sns_link a {
+    color: #666;
+    border: 1px solid #BDC1C5;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    display: inline-block;
+    background: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.2rem;
+    margin-left: 1.4rem;
+}
+
+@media (max-width: 1560.98px) {
+    .a_link .container{
+        padding-left: 2.6rem !important;
+        padding-right: 2.6rem !important;
+    }
+    .ft .container{
+        padding-left: 2.6rem !important;
+        padding-right: 2.6rem !important;
+    }
+
+}
+/*반응형 max 1450 xl*/
+@media (max-width: 1450.98px) {
+    .ft .container{
+        padding-left: 1.6rem !important;
+        padding-right: 1.6rem !important;
+    }
+    .a_link .container{
+        padding-left: 2.6rem !important;
+        padding-right: 2.6rem !important;
+    }
+    .pc_nav .nav_a{
+        font-size: 1.8rem !important; 
+    }    
+    .pc_nav .nav_ul2 a{
+        font-size: 1.6rem !important;
+    }
+}
+/*반응형 max 1200 xl*/
+@media (max-width: 1199.98px) {
+    .ft .sns_link a {
+        width: 2.5rem;
+        height: 2.5rem;        
+        margin:0  0.1rem;
+    }
+    .align-items-md-center {
+        align-items: left ;
+    }
+}
+
+/*반응형 max 992px lg*/
+@media (max-width: 991.98px) {
+    .ft .container{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    .ft_left{
+        padding-top: 1rem;
+    }
+    .ft_right{
+        margin-top: 3rem;
+    }
+    .ft .ft_right img{
+        width: 127px;
+    }
+    .ft .a_link{
+        padding: 0;
+    }
+}
+
+
+/*반응형 max 767px md*/
+@media (max-width: 767.98px) {
+    .breadcrumbs .mr_14{
+        margin-right: 1rem;
+    }
+    .breadcrumbs .mr_14 a{
+        font-size: 1.2rem;
+    }
+}
+
+
+/*반응형 max 576px sm*/
+@media (max-width: 575.98px) {
+}
+
+
+@media (max-width:380px) {
+	
+}
